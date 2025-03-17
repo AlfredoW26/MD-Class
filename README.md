@@ -1,7 +1,6 @@
 # Dermatology ML Project
-```
-Demarology Classification using ML
-```
+
+Dermatology Classification using ML
 
 Description of the app ...
 
